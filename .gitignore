@@ -1,0 +1,8 @@
+__pycache__
+
+*.avi
+*.png
+*.JPG
+
+models
+weights
