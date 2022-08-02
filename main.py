@@ -43,6 +43,8 @@ def main(mode, hrnet_m, hrnet_c, hrnet_j, hrnet_weights, hrnet_joints_set, image
         
         assert video.isOpened()
 
+    
+
 
     # model setting
     ## Detector model
